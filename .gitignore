@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#.05_Store
+.05_Store
+
 # Distribution / packaging
 .Python
 build/
